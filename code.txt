@@ -1,0 +1,1 @@
+python -m PyQt5.uic.pyuic -x C:\Users\CS9\Desktop\The_Legend_of_Zelda\SIGNUP.ui -o C:\Users\CS9\Desktop\The_Legend_of_Zelda\SIGNUP.py
